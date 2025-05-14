@@ -1,6 +1,4 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-NAME: INFANCIA FELCY P
-REG NO: 212223040067
 
 ## AIM:
 To write a python program for Implementation of sliding Window Protocol.
